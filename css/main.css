@@ -1,0 +1,23 @@
+footer {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  background: lightgoldenrodyellow;
+  border-top: 1px solid gold;
+  padding-bottom: 19px; }
+  footer p {
+    margin-bottom: 3px;
+    margin-top: 3px; }
+
+h2 {
+  margin: 3px; }
+
+.animals p {
+  margin-bottom: 3px;
+  margin-top: 3px; }
+
+.headl {
+  color: gold; }
+
+.border, .kkk {
+  border-bottom: 2px solid gold; }
